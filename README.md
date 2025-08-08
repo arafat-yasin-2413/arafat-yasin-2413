@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Banner Image -->
 <img src="https://raw.githubusercontent.com/arafat-yasin-2413/arafat-yasin-2413/refs/heads/main/pexels-mahmoudramadan-28795078.jpg" alt="Banner" width="100%" />
 
