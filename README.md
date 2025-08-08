@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Banner Image -->
-<img src="https://ibb.co.com/YHgMxL0" alt="Banner" width="100%" />
+<img src="https://www.pexels.com/photo/colorful-abstract-curved-lines-on-black-background-28795078/" alt="Banner" width="100%" />
 
 <!-- Name and Designation -->
 <h1 align="center">Hi 👋, I'm Yasin Arafat</h1>
