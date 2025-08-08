@@ -92,6 +92,64 @@
 
 
 
+---
+
+## 📌 Pinned Projects
+
+### 🧾 1. Recipe Book  
+A user-friendly web application to store, manage, and search your favorite cooking recipes. Users can add, edit, and delete recipes with a clean UI.
+
+**Features:**
+- Add, view, update, and delete recipes
+- Search functionality
+- Responsive design
+
+**Tech Stack:** React, React Router, Tailwind CSS, Firebase
+
+![Recipe Book Homepage](./screenshots/recipe-book-home.png)
+
+🔗 [Live Site](https://your-recipe-book.netlify.app)  
+🔗 [GitHub Repo](https://github.com/arafat-yasin-2413/recipe-book)
+
+---
+
+### 📚 2. Bookshelf  
+Bookshelf is a web app where users can manage a collection of books — add, update, read, and track reading progress.
+
+**Features:**
+- Add and update books
+- Mark as read/watch
+- Simple UI and smooth user experience
+
+**Tech Stack:** React, Tailwind CSS, Firebase
+
+![Bookshelf Homepage](./screenshots/bookshelf-home.png)
+
+🔗 [Live Site](https://your-bookshelf.netlify.app)  
+🔗 [GitHub Repo](https://github.com/arafat-yasin-2413/bookshelf)
+
+---
+
+### 🛒 3. Market Track  
+Market Track is a feature-rich app to monitor and analyze fresh vegetable prices. Users, vendors, and admins can track price trends, manage orders, payments, and more.
+
+**Features:**
+- Track current & previous prices
+- Price trend analysis
+- Watchlist, Orders, Role-based dashboard
+- Payment integration
+
+**Tech Stack:** React, React Query, Tailwind CSS, Node.js/Firebase
+
+![Market Track Dashboard](./screenshots/markettrack-dashboard.png)
+
+🔗 [Live Site](https://your-market-track.netlify.app)  
+🔗 [GitHub Repo](https://github.com/arafat-yasin-2413/market-track)
+
+
+
+
+
 <!--
 **arafat-yasin-2413/arafat-yasin-2413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
