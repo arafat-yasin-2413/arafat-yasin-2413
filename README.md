@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Banner Image -->
-<img src="[https://www.pexels.com/photo/colorful-abstract-curved-lines-on-black-background-28795078/](https://raw.githubusercontent.com/arafat-yasin-2413/arafat-yasin-2413/refs/heads/main/pexels-mahmoudramadan-28795078.jpg)" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/arafat-yasin-2413/arafat-yasin-2413/refs/heads/main/pexels-mahmoudramadan-28795078.jpg" alt="Banner" width="100%" />
 
 <!-- Name and Designation -->
 <h1 align="center">Hi 👋, I'm Yasin Arafat</h1>
