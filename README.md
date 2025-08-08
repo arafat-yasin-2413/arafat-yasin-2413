@@ -106,10 +106,10 @@ A user-friendly web application to store, manage, and search your favorite cooki
 
 **Tech Stack:** React, React Router, Tailwind CSS, Firebase
 
-![Recipe Book Homepage](./screenshots/recipe-book-home.png)
+![Recipe Book Homepage](./recipe-book-homepage.png)
 
-🔗 [Live Site](https://your-recipe-book.netlify.app)  
-🔗 [GitHub Repo](https://github.com/arafat-yasin-2413/recipe-book)
+🔗 [Live Site](https://recipe-book-app-e138e.web.app/)  
+🔗 [GitHub Repo](https://github.com/arafat-yasin-2413/my-recipe-book-client)
 
 ---
 
@@ -123,10 +123,10 @@ Bookshelf is a web app where users can manage a collection of books — add, upd
 
 **Tech Stack:** React, Tailwind CSS, Firebase
 
-![Bookshelf Homepage](./screenshots/bookshelf-home.png)
+![Bookshelf Homepage](./bookshelf-homepage.png)
 
-🔗 [Live Site](https://your-bookshelf.netlify.app)  
-🔗 [GitHub Repo](https://github.com/arafat-yasin-2413/bookshelf)
+🔗 [Live Site](https://bookshelf-project-d43ac.web.app/)  
+🔗 [GitHub Repo](https://github.com/arafat-yasin-2413/my-bookshelf-client)
 
 ---
 
@@ -141,10 +141,10 @@ Market Track is a feature-rich app to monitor and analyze fresh vegetable prices
 
 **Tech Stack:** React, React Query, Tailwind CSS, Node.js/Firebase
 
-![Market Track Dashboard](./screenshots/markettrack-dashboard.png)
+![Market Track Dashboard](./market-track-homepage.png)
 
-🔗 [Live Site](https://your-market-track.netlify.app)  
-🔗 [GitHub Repo](https://github.com/arafat-yasin-2413/market-track)
+🔗 [Live Site](https://market-track-project.web.app/)  
+🔗 [GitHub Repo](https://github.com/arafat-yasin-2413/my-market-track-client)
 
 
 
