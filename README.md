@@ -75,21 +75,21 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafat-yasin-2413&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafat-yasin-2413&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-yasin-2413&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arafat-yasin-2413&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arafat-yasin-2413&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arafat-yasin-2413&theme=tokyonight)
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arafat-yasin-2413&theme=tokyonight)
 
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arafat-yasin-2413&theme=tokyonight&utcOffset=6)
+>
+---
 
+## 📉 Contribution Graph
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arafat-yasin-2413&theme=tokyo-night)
 ---
 
 ## 📌 Pinned Projects
