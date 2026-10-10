@@ -3,7 +3,7 @@
 
 <!-- Name and Designation -->
 <h1 align="center">Hi 👋, I'm Md Yasin Arafat</h1>
-<h3 align="center">A passionate Frontend Developer (React.js)</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <!-- About Me -->
 ## 👨‍💻 About Me
